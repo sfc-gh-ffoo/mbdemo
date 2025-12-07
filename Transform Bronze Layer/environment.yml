@@ -1,0 +1,6 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - pyspark=3.5.4
+  - snowpark-connect=1.2.0
